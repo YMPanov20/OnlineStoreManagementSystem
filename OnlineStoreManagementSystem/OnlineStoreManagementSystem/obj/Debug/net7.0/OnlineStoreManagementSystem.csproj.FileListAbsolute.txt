@@ -1,0 +1,15 @@
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\bin\Debug\net7.0\OnlineStoreManagementSystem.exe
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\bin\Debug\net7.0\OnlineStoreManagementSystem.deps.json
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\bin\Debug\net7.0\OnlineStoreManagementSystem.runtimeconfig.json
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\bin\Debug\net7.0\OnlineStoreManagementSystem.dll
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\bin\Debug\net7.0\OnlineStoreManagementSystem.pdb
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\obj\Debug\net7.0\OnlineStoreManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\obj\Debug\net7.0\OnlineStoreManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\obj\Debug\net7.0\OnlineStoreManagementSystem.AssemblyInfo.cs
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\obj\Debug\net7.0\OnlineStoreManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\obj\Debug\net7.0\OnlineStoreManagementSystem.sourcelink.json
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\obj\Debug\net7.0\OnlineStoreManagementSystem.dll
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\obj\Debug\net7.0\refint\OnlineStoreManagementSystem.dll
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\obj\Debug\net7.0\OnlineStoreManagementSystem.pdb
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\obj\Debug\net7.0\OnlineStoreManagementSystem.genruntimeconfig.cache
+C:\Users\Yoan\source\repos\OnlineStoreManagementSystem\OnlineStoreManagementSystem\OnlineStoreManagementSystem\obj\Debug\net7.0\ref\OnlineStoreManagementSystem.dll
